@@ -27,7 +27,7 @@ MCM/
 │   ├── CBAM network structure diagram.vsdx
 │   ├── Degree of impact of single stock commission changes on final returns.opju
 │   ├── Gold Forecast Price Chart.opju
-│   ├── Indicative diagram of operation without holding assets (left) and holding assets         (right).vsdx
+│   ├── Indicative diagram of operation without holding assets (left) and holding assets(right).vsdx
 │   ├── LSTM network structure expansion diagram.vsdx
 │   ├── Prediction model mind map.vsdx
 │   └── Problem 1 solving flow chart.vsdx
